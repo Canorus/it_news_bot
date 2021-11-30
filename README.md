@@ -9,3 +9,4 @@ twingyeo.kr의 [it_news_bot](https://twingyeo.kr/@INB)의 소스코드 비스무
 ### 현재 수집 대상 페이지
 
 - [클리앙 새로운 소식](https://www.clien.net/service/board/news)
+- [클리앙 : 자료실](https://www.clien.net/service/board/pds)
